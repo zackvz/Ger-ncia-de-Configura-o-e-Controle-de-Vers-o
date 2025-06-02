@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Segunda guerra mundial - Contexto histórico</title>
+  <style>
+    /* Reset de estilos básicos */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    /* Estilos globais */
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f9;
+      color: #333;
+      line-height: 1.6;
+      padding: 20px;
+    }
+
+    h1 {
+      text-align: center;
+      color: #2e3d49;
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      color: #2e3d49;
+      margin-top: 20px;
+    }
+
+    .container {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .section {
+      margin-bottom: 20px;
+    }
+
+    .intro {
+      font-size: 1.2em;
+      margin-bottom: 20px;
+      color: #555;
+    }
+
+    .content {
+      font-size: 1.1em;
+      line-height: 1.8;
+      color: #444;
+    }
+
+    .image {
+      width: 100%;
+      max-width: 600px;
+      display: block;
+      margin: 20px auto;
+    }
+
+    table {
+      width: 100%;
+      margin-top: 30px;
+      border-collapse: collapse;
+      background-color: #fff;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    th, td {
+      padding: 10px;
+      text-align: left;
+      border: 1px solid #ddd;
+    }
+
+    th {
+      background-color: #f2f2f2;
+      color: #333;
+    }
+
+    .footer {
+      text-align: center;
+      font-size: 0.9em;
+      color: #777;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>O Contexto Histórico</h1>
+
+    <div class="section">
+      <h2></h2>
+      <p class="content">
+        O contexto histórico da Segunda Guerra Mundial tem suas raízes profundamente ligadas às consequências da Primeira Guerra Mundial e aos desdobramentos econômicos, sociais e políticos que ocorreram nas décadas seguintes. Após o fim da Primeira Guerra em 1918, a Europa estava devastada, com milhões de mortos, cidades destruídas e uma economia profundamente fragilizada. O Tratado de Versalhes, assinado em 1919, impôs severas punições à Alemanha, que foi considerada a principal responsável pelo conflito. As cláusulas do tratado obrigaram o país a pagar pesadas indenizações, reduzir drasticamente seu exército, perder territórios e aceitar publicamente a culpa pela guerra.
+
+Essa humilhação nacional, somada às dificuldades econômicas que se seguiram, criou um ambiente de instabilidade social e política dentro da Alemanha. A crise econômica mundial de 1929, conhecida como Grande Depressão, agravou ainda mais essa situação. Milhões de pessoas ficaram desempregadas, tanto na Alemanha quanto em outros países, o que gerou fome, miséria e desespero. Esse cenário caótico foi terreno fértil para o crescimento de ideologias extremistas, tanto de direita quanto de esquerda.
+
+Na Alemanha, o Partido Nazista, liderado por Adolf Hitler, soube explorar o sentimento de revolta e humilhação da população. Prometendo restaurar o orgulho nacional, recuperar os territórios perdidos e revitalizar a economia, Hitler ascendeu ao poder em 1933. Uma vez no controle do governo, ele iniciou uma política agressiva de militarização, expansão territorial e perseguição a minorias, principalmente judeus, comunistas e opositores políticos. Seu regime era baseado no totalitarismo, no nacionalismo extremo e no racismo, especialmente na crença na superioridade da chamada raça ariana.
+
+Paralelamente, outros regimes autoritários surgiam ou se fortaleciam no mundo, como a Itália fascista de Benito Mussolini e o Império Japonês, que também adotava uma política expansionista na Ásia. O Japão, por exemplo, já havia invadido a Manchúria em 1931 e a China em 1937, buscando ampliar seu domínio no continente asiático.
+
+O fracasso das potências europeias e da Liga das Nações em conter o avanço dessas nações agressoras também foi um fator determinante. A política de apaziguamento, adotada principalmente pela Grã-Bretanha e pela França, permitiu que Hitler violasse as cláusulas do Tratado de Versalhes sem sofrer consequências imediatas. Ele remilitarizou a Renânia, anexou a Áustria no episódio conhecido como Anschluss em 1938 e, mais tarde, ocupou a região dos Sudetos, na Tchecoslováquia.
+
+O estopim da Segunda Guerra Mundial foi a invasão da Polônia pela Alemanha em 1º de setembro de 1939. Pouco antes desse ataque, a Alemanha havia assinado um pacto de não agressão com a União Soviética, conhecido como Pacto Molotov-Ribbentrop, que incluía uma cláusula secreta para a divisão da Polônia entre os dois países. Diante dessa agressão, Reino Unido e França declararam guerra à Alemanha em 3 de setembro de 1939, dando início oficialmente ao maior conflito armado da história da humanidade.
+
+A Segunda Guerra Mundial foi, portanto, o resultado de um complexo conjunto de fatores, incluindo as cicatrizes deixadas pela Primeira Guerra, crises econômicas globais, ascensão de regimes totalitários e fracasso dos mecanismos internacionais de manutenção da paz.
+
+      </p>
+    </div>
+
+
+    <!-- Rodapé -->
+    <div class="footer">
+      <p>Exercício realizado em sala de aula</p>
+    </div>
+  </div>
+
+</body>
+</html>
